@@ -2,7 +2,7 @@
 
 This script creates a report of all Users in list of OUs.
 
-By: Ramin Heidari Khabbaz
+By: RaminHK
 
 
 Versions:
